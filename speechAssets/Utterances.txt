@@ -1,0 +1,101 @@
+GetCampgrounds find campgrounds near {Location}
+GetCampgrounds to find campgrounds near {Location}
+GetCampgrounds to find campgrounds around {Location}
+GetCampgrounds what campgrounds are around {Location}
+GetCampgrounds campgrounds around {Location}
+GetCampgrounds what are the campgrounds around {Location}
+GetCampgrounds to get me a list of campgrounds around {Location}
+GetCampgrounds get me a list of campgrounds around {Location}
+GetCampgrounds list of campgrounds around {Location}
+GetCampgrounds {Location} campgrounds
+GetCampgrounds campgrounds near {Location}
+GetCampgrounds what are the campgrounds near {Location}
+GetCampgrounds to get me a list of campgrounds near {Location}
+GetCampgrounds get me a list of campgrounds near {Location}
+GetCampgrounds list of campgrounds near {Location}
+GetCampgrounds find me a list of campgrounds near {Location}
+GetCampgrounds find me campgrounds around {Location}
+GetCampgrounds find me campgrounds near {Location}
+GetCampgrounds find campgrounds around {Location}
+GetCampgrounds find campgrounds near {Location}
+GetCampgrounds give me campgrounds around {Location}
+GetCampgrounds give me campgrounds near {Location}
+GetCampgrounds give campgrounds around {Location}
+GetCampgrounds give campgrounds near {Location}
+GetPetPolicy is {Campground} pet friendly
+GetPetPolicy are pets allowed at {Campground}
+GetPetPolicy are pets allowed in {Campground}
+GetPetPolicy are dogs allowed at {Campground}
+GetPetPolicy are dogs allowed in {Campground}
+GetPetPolicy if pets are allowed at {Campground}
+GetPetPolicy if pets are allowed in {Campground}
+GetPetPolicy if dogs are allowed at {Campground}
+GetPetPolicy if dogs are allowed in {Campground}
+GetPetPolicy tell me if pets are allowed at {Campground}
+GetPetPolicy tell me if pets are allowed in {Campground}
+GetPetPolicy tell me if dogs are allowed at {Campground}
+GetPetPolicy tell me if dogs are allowed in {Campground}
+GetPetPolicy can I take my dog to {Campground}
+GetPetPolicy if {Campground} is pet friendly
+GetPetPolicy if I can take my dog to {Campground}
+GetPetPolicy tell me if I can take my dog to {Campground}
+GetPetPolicy I want to take my dog to {Campground}
+GetDescription tell me about {Campground}       
+GetAmenities what can I do at {Campground}
+GetAmenities what is available at {Campground}
+GetAmenities what's available at {Campground}
+GetAmenities to give me amenities for {Campground}
+GetAmenities what can I do in {Campground}
+GetAmenities what is available in {Campground}
+GetAmenities what's available in {Campground}
+GetAmenities to give me amenities in {Campground}
+GetAmenities give me amenities for {Campground}
+GetAmenities to find me amenities for {Campground}
+GetAmenities find me amenities for {Campground}
+GetAmenities tell me amenities for {Campground}
+GetAmenities to tell me amenities for {Campground}
+GetAmenities {Campground} amenities
+GetAmenities what amenities does {Campground} have
+GetAmenities what amenities does {Campground} offer 
+GetAmenities what is in {Campground}
+GetAmenities what's in {Campground}
+GetAmenities what amenities are available at {Campground}
+GetDirections how do I get to {Campground}
+GetDirections how can I get to {Campground}
+GetDirections to tell me how to get to {Campground}
+GetDirections tell me how to get to {Campground}
+GetDirections where is {Campground}
+GetDirections give me directions to {Campground}
+GetDirections give directions to {Campground}
+GetDirections to give directions to {Campground}
+GetDirections to give me directions to {Campground}
+GetDirections find me directions to {Campground}
+GetDirections find directions to {Campground}
+GetDirections to find directions to {Campground}
+GetDirections to find me directions to {Campground}
+GetDirections get me directions to {Campground}
+GetDirections get directions to {Campground}
+GetDirections to get directions to {Campground}
+GetDirections to get me directions to {Campground}
+GetDirections how do I get to {Campground}
+GetDirections where is {Campground}
+GetDirections {Campground} directions
+GetDirections {Campground} location
+GetDirections where is {Campground} located
+GetDirections where is {Campground}
+GetNearbyAttractions what is around {Campground}
+GetNearbyAttractions what is near {Campground}
+GetNearbyAttractions what's around {Campground}
+GetNearbyAttractions what's near {Campground}
+GetNearbyAttractions is there anything near {Campground}
+GetNearbyAttractions is there anything around {Campground}
+GetNearbyAttractions is there anything close to {Campground}
+GetNearbyAttractions to get nearby attractions for {Campground}
+GetNearbyAttractions get nearby attractions for {Campground}
+GetNearbyAttractions what nearby attractions for {Campground}
+GetNearbyAttractions what are {Campground} nearby attractions
+GetNearbyAttractions to give me nearby attractions for {Campground}
+GetNearbyAttractions find me nearby attractions for {Campground}
+GetNearbyAttractions tell me nearby attractions for {Campground}
+GetNearbyAttractions to find me nearby attractions for {Campground}
+GetNearbyAttractions to tell me nearby attractions for {Campground}

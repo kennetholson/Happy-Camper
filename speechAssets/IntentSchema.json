@@ -1,0 +1,35 @@
+{
+  "intents": [
+    {
+      "intent": "GetCampgrounds",
+      "slots": [
+        {
+          "name": "Location",
+          "type": "AMAZON.US_CITY"
+        }
+      ]
+    },
+    {
+      "intent": "GetDetails",
+      "slots": [
+        {
+          "name": "Campground",
+          "type": "LIST_OF_CAMPGROUNDS"
+        },
+        {
+          "name": "Detail",
+          "type": "LIST_OF_DETAILS"
+        }
+      ]
+    },
+    {
+      "intent": "GetPetPolicy",
+      "slots": [
+        {
+          "name": "Campground",
+          "type": "LIST_OF_CAMPGROUNDS"
+        }
+      ]
+    }
+  ]
+}

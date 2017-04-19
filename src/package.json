@@ -1,0 +1,15 @@
+{
+  "name": "camper",
+  "version": "1.0.0",
+  "description": "camper",
+  "main": "camper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ken and Rima",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.27.0",
+    "xml2js": "^0.4.17"
+  }
+}

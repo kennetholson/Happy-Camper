@@ -1,0 +1,22 @@
+{
+  "session": {
+    "sessionId": "SessionId.Session1",
+    "application": {
+      "applicationId": "amzn1.echo-sdk-ams.app.<amzn1.ask.skill.609d5890-6377-4ced-9fa0-e2081330f478>"
+    },
+    "user": {
+      "userId": "amzn1.ask.account.testaccount1"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "LaunchRequest",
+    "requestId": "EdwRequestId.TestSession1",
+    "timestamp": "2016-05-19T01:07:55Z",
+    "intent": {
+      "name": "LaunchIntent"
+    },
+    "locale": "en-US"
+  },
+  "version": "1.0"
+}

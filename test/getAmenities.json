@@ -1,0 +1,29 @@
+{
+  "session": {
+    "sessionId": "SessionId.0de1f1be-d9db-451f-8114-68367436826d",
+    "application": {
+      "applicationId": "amzn1.ask.skill.609d5890-6377-4ced-9fa0-e2081330f478"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AFWJKDBGFPZG3KFLLTRWQ4DQ6PEGCVKKCY2AWJVRXMGIYG3HP7WDKPZSFZ3YZZQ43VVECEFGWPTSJ2SGEDKVWU4RVOR42WJZ74NYG6ZOZNYHTEN4IQ4PEVSSYGLZ3QHNIXFTDG3PN4DNKONPHXZLCOVTUYOYG3ILGW6I3XZXSOG6EVHRJNYJQ5UCIK7PIREG6BMJLFD4Z4POI6Q"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.b79f9ff2-3f36-4d33-8932-8a7613cee427",
+    "locale": "en-US",
+    "timestamp": "2017-03-14T12:08:36Z",
+    "intent": {
+      "name": "GetAmenities",
+      "slots": {
+        "Campground": {
+          "name": "Campground",
+          "value": "point reyes"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
