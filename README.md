@@ -4,7 +4,7 @@
 ## Happy Camper is now Available at the Amazon Skill Store
 ![alt text](https://github.com/kennetholson/Happy-Camper/blob/master/img/Screen%20Shot%202017-04-22%20at%2012.07.38%20PM.png "Skill Store Screenshot")
 
-[Amazon Skills Store](http://alexa.amazon.com/spa/index.html#skills/dp/B06XZVMS3X/?ref=skill_dsk_skb_sr_0)
+Go to the [Amazon Skills Store](http://alexa.amazon.com/spa/index.html#skills/dp/B06XZVMS3X/?ref=skill_dsk_skb_sr_0) and enable it.
 
 ## Utterances
  You can ask Happy Camper things like...
