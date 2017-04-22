@@ -12,4 +12,5 @@
   * "...how do I get to {Campground}"
   * "...what is around {Campground}"
   
-find a full list of utterances [here](https://github.com/kennetholson/Happy-Camper/blob/master/speechAssets/Utterances.txt)
+Click for a full list of utterances [Utterances](https://github.com/kennetholson/Happy-Camper/blob/master/speechAssets/Utterances.txt),
+or check out our [Demo Video.](https://www.youtube.com/watch?v=Z4alyLteamU)
