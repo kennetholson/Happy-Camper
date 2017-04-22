@@ -17,4 +17,5 @@ Go to the [Amazon Skills Store](http://alexa.amazon.com/spa/index.html#skills/dp
 Click for a full list of utterances [Utterances](https://github.com/kennetholson/Happy-Camper/blob/master/speechAssets/Utterances.txt),
 or check out our [Demo Video.](https://www.youtube.com/watch?v=Z4alyLteamU)
 
-
+### Thank You
+![alt text](https://github.com/kennetholson/Happy-Camper/blob/master/img/A-icon.png "Active Icom") Thank you to ACTIVE for the use of their API and the great documentation.
